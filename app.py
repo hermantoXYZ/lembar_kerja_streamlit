@@ -5,7 +5,7 @@ import numpy as np
 import requests
 
 # 1 ELEMEN TEXT
-st.title("Aplikasi Streamlit App" )
+st.title("My App HermantoXYZ" )
 st.header("Aplikasi Streamlit App - Ini Header")
 st.subheader("Aplikasi Streamlit App - Ini Subheader")
 st.caption("Aplikasi Streamlit App - Ini Caption")

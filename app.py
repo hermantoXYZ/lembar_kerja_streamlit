@@ -6,6 +6,7 @@ import requests
 
 # 1 ELEMEN TEXT
 st.title("My App HermantoXYZ" )
+st.video("https://www.youtube.com/watch?v=QK4BVh2aSAA")
 st.header("Aplikasi Streamlit App - Ini Header")
 st.subheader("Aplikasi Streamlit App - Ini Subheader")
 st.caption("Aplikasi Streamlit App - Ini Caption")
